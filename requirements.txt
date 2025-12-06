@@ -1,0 +1,17 @@
+streamlit
+google-generativeai
+chromadb
+python-dotenv
+PyPDF2
+python-docx
+python-pptx
+Pillow
+pytesseract
+moviepy
+speechrecognition
+youtube-transcript-api
+pydub
+yt-dlp
+langchain
+langchain-google-genai
+sentence-transformers
